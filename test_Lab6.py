@@ -1,4 +1,4 @@
-from emp_details import employee_details
+from Lab6_devops import employee_details
 
 def test_employee_details():
     result = employee_details("RJ", "00000", "Engineering", "75000")
